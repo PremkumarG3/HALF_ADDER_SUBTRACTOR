@@ -48,8 +48,8 @@ Figure -02 HALF Subtractor
 
 
 # Program:
-*Developed by: PREM KUMAR G*
-*Register number: 212223230158*
+Developed by: PREM KUMAR G
+Register number: 212223230158
 ## Half-adder:
 ```
 module half_adder(a,b,sum,carry);
